@@ -30,6 +30,12 @@ body{
   width: 300px;
 }
 
+.video-embed {
+  width: 25%;
+  height: 175px;
+  border: palevioletred;
+}
+
 .image-forensic{
   width: 300px;
 }
@@ -83,6 +89,5 @@ nav ul li a:hover {
   flex-direction: column;
   gap: 2em;
 }
-
 
 
